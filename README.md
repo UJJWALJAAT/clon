@@ -9,7 +9,7 @@
 
 ## ✅ **Installation & Usage (All Steps Together)**  
 
-नीचे दिए गए सभी कमांड को **एक-एक करके कॉपी करें और टर्मिनल (Termux/Linux) में पेस्ट करें**:  
+नीचे दिए गए सभी कमांड को **कॉपी करने के लिए "Copy" बटन पर क्लिक करें और टर्मिनल (Termux/Linux) में पेस्ट करें**:  
 
 ```sh
 git clone https://github.com/UJJWALJAAT/clon
