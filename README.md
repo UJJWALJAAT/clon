@@ -14,3 +14,7 @@
 
 ```sh
 git clone https://github.com/UJJWALJAAT/clon
+### 🔹 **Step 2: स्टोरेज एक्सेस दें**
+
+```sh
+termux-setup-storage
